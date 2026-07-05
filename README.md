@@ -1,8 +1,10 @@
+<div align="center">
+  <img src="fondo.jpg" alt="fondo" width="100%" />
+</div>
 
 
-<header style="margin-top: 30px;text-align:center">
-<h1>Frontend Developer ⚡</h1>
-</header>
+
+<h1 align="center">Frontend Developer ⚡</h1>
 
 <div style="display:flex; justify-content:center; align-items:center; gap:8px;flex-wrap: wrap; padding:6px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -17,46 +19,47 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </div>
 
+</div>
+
 ---
 
-<section style="display:flex; flex-wrap:wrap; align-items:stretch; gap:16px;">
-  <div style="flex:0 0 200px; max-width:200px; align-self:stretch;">
-    <img src="FotoArticle.jpg" alt="Proyecto destacado" style="width:auto; height:100%; object-fit:cover; border-radius:8px; display:block;">
-  </div>
-  <div style="flex:1; min-width:220px; display:flex; flex-direction:column;">
-    <header>
-      <h2>Hola, ¿cómo estás? 👋</h2>
-    </header>
-    <p>
-      Bienvenido/a — espero que encuentres todo lo que buscas en este perfil. Soy autodidacta y estoy en constante evolución, mejorando mis habilidades y creando proyectos que combinan desarrollo web y creatividad visual.
-    </p>
-    <p>
-      Si necesitas ayuda o quieres colaborar en algún proyecto, con gusto puedo atenderte. ¡Hablemos!
-    </p>
-  </div>
-</section>
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="FotoArticle.jpg" alt="Proyecto destacado" width="200" height="410" />
+    </td>
+    <td valign="top">
 
-<section style="display:flex; flex-wrap:wrap; align-items:stretch; gap:16px; margin-top: 20px">
-  
-  <div style="flex:1; min-width:220px; display:flex; flex-direction:column;">
-    <header>
-      <h2>Pasatiempos 🍃</h2>
-    </header>
-    <p>
-      Aparte de mi entorno laboral, cuento con un conjunto de actividades que complementan mis habilidades como desarrollador y diseñador.
-    </p>
-    <div>
-      <div>- Dibujar 🎨</div>
-      <div>- Tatuar 🖋️</div>
-      <div>- Gym 🏋️‍♂️</div>
-      <div>- Viajar ✈️</div>
-      <div>- Videojuegos 🎮</div>
-    </div>
-  </div>
-  <div style="flex:0 0 200px; max-width:200px; align-self:stretch;">
-    <img src="FotoPasaTiempo.jpg" alt="Proyecto destacado" style="width:auto; height:100%; object-fit:cover; border-radius:8px; display:block;">
-  </div>
-</section>
+### Hola, ¿cómo estás? 👋
+
+Bienvenido/a — espero que encuentres todo lo que buscas en este perfil. Soy autodidacta y estoy en constante evolución, mejorando mis habilidades y creando proyectos que combinan desarrollo web y creatividad visual.
+
+Si necesitas ayuda o quieres colaborar en algún proyecto, con gusto puedo atenderte. ¡Hablemos!
+
+</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+
+### Pasatiempos 🍃
+
+Aparte de mi entorno laboral, cuento con un conjunto de actividades que complementan mis habilidades como desarrollador y diseñador.
+
+- Dibujar 🎨
+- Tatuar 🖋️
+- Gym 🏋️‍♂️
+- Viajar ✈️
+- Videojuegos 🎮
+
+</td>
+    <td width="200" valign="top">
+      <img src="FotoPasaTiempo.jpg" alt="Pasatiempo" width="200" height="410" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,4 +70,3 @@
 💼 [LinkedIn](https://www.linkedin.com/in/esnaideror/)  
 🌐 [Portafolio Web](https://darkin03.github.io/Esnaider.OR/)  
 📄 [Descargar CV](./CV.pdf)
-
