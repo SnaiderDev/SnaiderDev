@@ -1,11 +1,4 @@
-<div style="position:relative; height:350px; display:flex; justify-content:center; align-items:center;">
-  <!-- Fondo en capa separada con opacidad al 50% -->
-  <img src="fondo.jpg" alt="fondo" style="position:absolute; inset:0; height:100%; width:100%; object-fit:cover; opacity:0.5; z-index:0;">
-  <!-- Centrar la foto de perfil horizontalmente y bajarla un poco fuera del fondo -->
-  <div style="position:absolute; z-index:1; display:flex; justify-content:center; align-items:center; padding:2px; left:50%; transform:translateX(-50%); bottom:-20px;">
-    <img src="./FotoPerfil.jpg" alt="Foto de perfil" width="220" style="border-radius:50%; border:2px solid #ccc; display:block;" />
-  </div>
-</div>
+
 
 <header style="margin-top: 30px;text-align:center">
 <h1>Frontend Developer ⚡</h1>
