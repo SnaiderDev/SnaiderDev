@@ -2,14 +2,16 @@
   <img src="./FotoPerfil.jpg" alt="Foto de perfil" width="180" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
-<h1 align="center">👨‍💻 ¡Hola, soy Snaider Ortega!</h1>
+<h1 align="center">Frontend Developer ⚡ UI/UX • Arte Digital • Creatividad Visual 🚀</h1>
 
 
-Desarrollador Frontend apasionado por la tecnología, el arte y el aprendizaje continuo. Mi enfoque combina la creatividad con la funcionalidad, siempre buscando soluciones eficientes y atractivas para la web.
+⚡ Developer enfocado en crear experiencias digitales funcionales, modernas y visualmente atractivas.
+ 
+🧠 Autodidacta y en constante evolución, mejorando continuamente mis habilidades y construyendo proyectos que combinan 💻 desarrollo web, 🎨 diseño UI/UX y ✨ creatividad visual.
 
 ---
 
-## 🚀 Tecnologías y herramientas que domino
+## 🚀 Tecnologías y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -18,6 +20,7 @@ Desarrollador Frontend apasionado por la tecnología, el arte y el aprendizaje c
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
@@ -43,16 +46,16 @@ Desarrollador Frontend apasionado por la tecnología, el arte y el aprendizaje c
 | 📊 **Dashboard de Datos** | Visualización de estadísticas con filtros personalizados | React, Bootstrap, Chart.js |
 | 🛒 **Mini E-Commerce** | Simulación de tienda online con carrito de compras | React, Context API, CSS Modules |
 
-> Puedes explorar cada proyecto en la pestaña de Repositorios 📁
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Contactos
 
 📍 Montería, Colombia  
 📧 snaiderortega10@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/esnaideror/)  
-🌐 [Portafolio Web](https://darkin03.github.io/Esnaider.OR/)
+🌐 [Portafolio Web](https://darkin03.github.io/Esnaider.OR/)  
+📄 [Descargar CV](./CV.pdf)
 
 ---
 
