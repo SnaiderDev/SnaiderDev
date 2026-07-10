@@ -36,14 +36,9 @@
   <!-- CV Badge -->
   <img src="https://img.shields.io/badge/CV-Descargar%20Curriculum-FFD700?style=for-the-badge&logo=file-pdf" alt="CV" />
 
-
   <!-- Portafolio Web Badge: Simplificado a solo la palabra "Portafolio Web" -->
   <img src="https://img.shields.io/badge/Portafolio%20Web-ffc107?style=for-the-badge&color=ffc107" alt="Portafolio Web" />
 
-</div>
-
-##
-<div align="center">
   <!-- Email Badge -->
   <a href="mailto:snaiderortega10@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Email-dc3545?style=for-the-badge&color=dc3545" alt="Email" />
@@ -55,7 +50,6 @@
 </div>
 
 ##
-
 
 <div align="center">
 
