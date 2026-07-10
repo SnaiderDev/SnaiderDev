@@ -54,4 +54,13 @@
   </a>
 </div>
 
+##
 
+
+<div align="center">
+
+  <!-- Instagram Badge -->
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <!-- TikTok Badge -->
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</div>
