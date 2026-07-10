@@ -44,7 +44,7 @@
 
 ##
 <div align="center">
-  <h2>Contactos 📞</h2>
+  <h1>Contactos 📞</h1>
 </div>
 <div align="center">
   <!-- Email Badge -->
