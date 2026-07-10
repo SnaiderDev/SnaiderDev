@@ -44,9 +44,6 @@
 
 ##
 <div align="center">
-  <h1>Contactos 📞</h1>
-</div>
-<div align="center">
   <!-- Email Badge -->
   <a href="mailto:snaiderortega10@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Email-dc3545?style=for-the-badge&color=dc3545" alt="Email" />
