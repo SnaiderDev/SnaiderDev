@@ -44,9 +44,17 @@
 
 ##
 <div align="center">
-  <!-- Email Badge: Simplificado a solo la palabra "Email" -->
-  <img src="https://img.shields.io/badge/Email-dc3545?style=for-the-badge&color=dc3545" alt="Email" /> 
-  <!-- LinkedIn Badge: Sin cambios -->
-  <img src="https://img.shields.io/badge/LinkedIn-Linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn" />
+  <h2>Contactos 📞</h2>
 </div>
+<div align="center">
+  <!-- Email Badge -->
+  <a href="mailto:snaiderortega10@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Email-dc3545?style=for-the-badge&color=dc3545" alt="Email" />
+  </a>
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/esnaideror/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn" />
+  </a>
+</div>
+
 
