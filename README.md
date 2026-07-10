@@ -1,6 +1,6 @@
  <img src="Fondo.png" alt="HTML5" />
 
-<h1 align="center">Frontend Developer ⚡</h1>
+<h1 align="center">Frontend - Developer ⚡</h1>
 
 
 <p align="center">
@@ -26,12 +26,27 @@
 ##
 
 <div align="center">
-  <img src="https://img.shields.io/badge/I%20love%20javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black&colorTextColor=black" alt="I love JavaScript" style="width:95%; display:block; margin:10px auto;" />
+  <img src="https://img.shields.io/badge/I%20love%20javascript%20!-FFD700?style=for-the-badge&logo=javascript&logoColor=black&colorTextColor=black" alt="I love JavaScript" style="width:95%; display:block; margin:10px auto;" />
 </div>
 
-## Contacto 📞 
-**Ubicación:** 📍 Montería, Colombia  
-**Email:** 📧 [snaiderortega10@gmail.com](mailto:snaiderortega10@gmail.com)  
-**LinkedIn:** 💼 [Conectemos en LinkedIn](https://www.linkedin.com/in/esnaideror/)  
-**🌐 Portafolio Web:** [darkin03.github.io/Esnaider.OR/](https://darkin03.github.io/Esnaider.OR/)  
-**📄 CV:** [Descargar Currículum](./CV.pdf)
+
+<div align="center">
+  <!-- Location Badge -->
+  <img src="https://img.shields.io/badge/Ubicación-Montería%2C%20Colombia-F3F3F3?style=for-the-badge&logo=locationpin" alt="Ubicación" />
+  <!-- CV Badge -->
+  <img src="https://img.shields.io/badge/CV-Descargar%20Curriculum-FFD700?style=for-the-badge&logo=file-pdf" alt="CV" />
+
+
+  <!-- Portafolio Web Badge: Simplificado a solo la palabra "Portafolio Web" -->
+  <img src="https://img.shields.io/badge/Portafolio%20Web-ffc107?style=for-the-badge&color=ffc107" alt="Portafolio Web" />
+
+</div>
+
+##
+<div align="center">
+  <!-- Email Badge: Simplificado a solo la palabra "Email" -->
+  <img src="https://img.shields.io/badge/Email-dc3545?style=for-the-badge&color=dc3545" alt="Email" /> 
+  <!-- LinkedIn Badge: Sin cambios -->
+  <img src="https://img.shields.io/badge/LinkedIn-Linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn" />
+</div>
+
