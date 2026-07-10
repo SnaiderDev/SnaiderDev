@@ -1,4 +1,5 @@
 
+ <img src="Fondo.png" alt="HTML5" />
 
 <h1 align="center">Frontend Developer ⚡</h1>
 
@@ -14,14 +15,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Figma-007AFF?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-6D28D9?style=flat&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ##
-
-## 📫 Contactos
 
 📍 Montería, Colombia  
 📧 snaiderortega10@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/esnaideror/)  
 🌐 [Portafolio Web](https://darkin03.github.io/Esnaider.OR/)  
 📄 [Descargar CV](./CV.pdf)
+
+
