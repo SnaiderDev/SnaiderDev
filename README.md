@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn" />
   </a>
 </div>
-
+<div align="center">
 <img
     src="catGif.gif"
     alt="Cat GIF"
@@ -60,3 +60,5 @@
       margin-left: auto;
       margin-right: auto;"
   />
+
+</div>
