@@ -49,3 +49,14 @@
   </a>
 </div>
 
+<img
+    src="catGif.gif"
+    alt="Cat GIF"
+    style="
+      width: 120px;
+      height: auto;
+      display: block;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;"
+  />
